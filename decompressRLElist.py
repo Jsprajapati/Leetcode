@@ -25,8 +25,8 @@ nums.length % 2 == 0
 1 <= nums[i] <= 100
 
 Complexity Analysis:
-Time:
-Space:
+Time: O(n)
+Space: O(n)
 
 Source: https://leetcode.com/problems/decompress-run-length-encoded-list/
 Date: 15-02-2023
